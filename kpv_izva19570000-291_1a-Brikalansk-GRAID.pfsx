@@ -74,7 +74,7 @@
             <String>English</String>
         </pref>
         <pref key="audio">
-            <String>///Users/niko/github/add_graid_tiers_pre/kpv_izva19570000-291_1a-Brikalansk.wav</String>
+            <String>///Users/niko/github/add_graid_tiers/kpv_izva19570000-291_1a-Brikalansk.wav</String>
         </pref>
     </prefGroup>
     <prefList key="CommentViewer.Columns.Order">
@@ -116,6 +116,9 @@
     <pref key="LayoutManager.SplitPaneDividerLocation">
         <Int>70</Int>
     </pref>
+    <pref key="TimeLineViewer.ZoomLevel">
+        <Float>90.0</Float>
+    </pref>
     <pref key="LayoutManager.SelectedTabIndex">
         <Int>8</Int>
     </pref>
@@ -153,19 +156,22 @@
         <Object class="java.awt.Point">0,23</Object>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>0</Long>
+        <Long>12820</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
     </pref>
     <pref key="MediaTime">
-        <Long>810</Long>
+        <Long>16198</Long>
     </pref>
     <pref key="MultiTierViewer.TierSortingMode">
         <Int>1</Int>
     </pref>
     <pref key="TimeLineViewer.ReducedTierHeight">
         <Boolean>true</Boolean>
+    </pref>
+    <pref key="SignalViewer.ZoomLevel">
+        <Float>90.0</Float>
     </pref>
     <pref key="FrameSize">
         <Object class="java.awt.Dimension">1280,773</Object>
@@ -209,12 +215,58 @@
         <Int>271</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>-40</Long>
+        <Long>10222</Long>
     </pref>
+    <prefList key="MultiTierViewer.HiddenTiers">
+        <String>note(part)</String>
+        <String>geo</String>
+        <String>note(geo)</String>
+        <String>bio</String>
+        <String>note(bio)</String>
+        <String>comment</String>
+        <String>phonet-UPA@PXT-F-19XX</String>
+        <String>phonol-CYR@PXT-F-19XX</String>
+        <String>translit-LAT@PXT-F-19XX</String>
+        <String>note(ref)@PXT-F-19XX</String>
+        <String>note(word)@PXT-F-19XX</String>
+        <String>lemma@PXT-F-19XX</String>
+        <String>morph@PXT-F-19XX</String>
+        <String>pos@PXT-F-19XX</String>
+        <String>lg(word)@PXT-F-19XX</String>
+        <String>ft-deu@PXT-F-19XX</String>
+        <String>ft-nob@PXT-F-19XX</String>
+        <String>ft-swe@PXT-F-19XX</String>
+        <String>ft-ling@PXT-F-19XX</String>
+        <String>ft-fin@PXT-F-19XX</String>
+        <String>note(orth)@PXT-F-19XX</String>
+        <String>lg(orth)@PXT-F-19XX</String>
+        <String>phonet-IPA@PXT-F-19XX</String>
+        <String>phonol-LAT@PXT-F-19XX</String>
+        <String>phonet-UPA@EEI-M-1913</String>
+        <String>phonol-CYR@EEI-M-1913</String>
+        <String>translit-LAT@EEI-M-1913</String>
+        <String>note(ref)@EEI-M-1913</String>
+        <String>note(word)@EEI-M-1913</String>
+        <String>lemma@EEI-M-1913</String>
+        <String>morph@EEI-M-1913</String>
+        <String>pos@EEI-M-1913</String>
+        <String>lg(word)@EEI-M-1913</String>
+        <String>ft-deu@EEI-M-1913</String>
+        <String>ft-nob@EEI-M-1913</String>
+        <String>ft-swe@EEI-M-1913</String>
+        <String>ft-ling@EEI-M-1913</String>
+        <String>ft-fin@EEI-M-1913</String>
+        <String>note(orth)@EEI-M-1913</String>
+        <String>lg(orth)@EEI-M-1913</String>
+        <String>phonet-IPA@EEI-M-1913</String>
+        <String>phonol-LAT@EEI-M-1913</String>
+        <String>Channel1</String>
+        <String>Channel1-1</String>
+    </prefList>
     <pref key="ActiveAudioRecognizerName">
         <String>Text-to-Speech alignment</String>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>0</Long>
+        <Long>18568</Long>
     </pref>
 </preferences>
